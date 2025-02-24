@@ -1,2 +1,22 @@
-# Repositories-Introduction
-This is a centralized repository that shows the introduction and index of all my GitHub repositories. Through this repository, you can quickly understand my project content, functions and technical features, and directly jump to the specific repository page.
+# 个人介绍
+
+# Repositories Introduction
+
+# 课程设计
+
+## 统计计算01（2024.9-2025.1） ——强化学习下随机化井字棋
+## 统计计算02（2024.9-2025.1） ——Bootstrap与Jackknife方法比较
+## 统计计算03（2024.9-2025.1） ——0-1 膨胀负二项回归的Gibbs抽样参数估计
+
+## 抽样调查（2024.9-2025.1）——抽样方法综合比较与LGBoost回归插补法效果比较
+
+## 博弈论（2024.6-2024.7）——沙滩占位博弈模型
+
+## 随机过程（2023.9-2024.1）——大富翁中的随机过程
+
+# 大创项目
+## 机器学习方法在金融数据中的应用
+## AI大模型辅助数学推理及其在本科概率论解题的实践初探
+# 感兴趣的小项目
+
+#
