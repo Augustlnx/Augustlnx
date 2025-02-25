@@ -11,10 +11,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/c1c2111b-4dff-4660-a7d8-80897d50233b" alt="GIF 1" width="460">
+      <img src="https://github.com/user-attachments/assets/c1c2111b-4dff-4660-a7d8-80897d50233b" alt="GIF 1" width="400">
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/34f4c6d0-378d-412f-b1f7-6abaaf87ac6e" alt="GIF 2" width="460">
+      <img src="https://github.com/user-attachments/assets/34f4c6d0-378d-412f-b1f7-6abaaf87ac6e" alt="GIF 2" width="400">
     </td>
   </tr>
 </table>
