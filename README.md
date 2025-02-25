@@ -6,11 +6,21 @@
 
 ### 统计计算02（2024.9-2025.1） ——强化学习下随机化井字棋
 
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/f27b92d3-d4eb-40ec-9196-aba6e99ddfa9" alt="Video as GIF" width="300">
-</div>
 
-![井字棋示例1](https://github.com/user-attachments/assets/f27b92d3-d4eb-40ec-9196-aba6e99ddfa9)
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/c1c2111b-4dff-4660-a7d8-80897d50233b" alt="GIF 1" width="460">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/34f4c6d0-378d-412f-b1f7-6abaaf87ac6e" alt="GIF 2" width="460">
+    </td>
+  </tr>
+</table>
+
+
+
 
 本项目利用强化学习算法实现一个变体的井字棋游戏。游戏包含经典的 3×3 和 4×3 井字基本策略探索分析，以及考虑引入随机性后如何制定合适的拒绝策略。项目通过对比三种不同的AI算法（Random，MinMax，RL），分析它们在无随机性和有随机性条件下的表现及关于拒绝策略的重要结论，最后提供了完整的实验报告和可交互的游戏界面，供用户体验和研究。
 
