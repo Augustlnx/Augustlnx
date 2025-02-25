@@ -4,9 +4,17 @@
 
 # 课程设计
 
-## 统计计算01（2024.9-2025.1） ——强化学习下随机化井字棋
-## 统计计算02（2024.9-2025.1） ——Bootstrap与Jackknife方法比较
-## 统计计算03（2024.9-2025.1） ——0-1 膨胀负二项回归的Gibbs抽样参数估计
+### 统计计算02（2024.9-2025.1） ——强化学习下随机化井字棋
+
+<div align="center">
+<video src="https://github.com/user-attachments/assets/5b8f5033-4b8c-45e6-ac14-c5fe78d3ec88" style="width: 200px; height: auto;"></video>
+</div>
+
+本项目利用强化学习算法实现一个变体的井字棋游戏。游戏包含经典的 3×3 和 4×3 井字基本策略探索分析，以及考虑引入随机性后如何制定合适的拒绝策略。项目通过对比三种不同的AI算法（Random，MinMax，RL），分析它们在无随机性和有随机性条件下的表现及关于拒绝策略的重要结论，最后提供了完整的实验报告和可交互的游戏界面，供用户体验和研究。
+
+项目链接：https://github.com/Augustlnx/Statistical-Computing-Course-Project02
+
+## 统计计算01（2024.9-2025.1） ——Bootstrap与Jackknife方法比较
 
 ## 抽样调查（2024.9-2025.1）——抽样方法综合比较与LGBoost回归插补法效果比较
 
