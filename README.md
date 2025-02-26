@@ -35,10 +35,10 @@
     <img src="https://github.com/user-attachments/assets/f842922c-367b-43db-b4e9-c35f77c06e65" alt="GIF 1" width="500">
     </td>
     <td align="center">
-      <img src="/img/井字棋示例1.gif" alt="GIF 1" width="200">
+      <img src="img/井字棋示例1.gif" alt="GIF 1" width="200">
     </td>
     <td align="center">
-      <img src="/img/井字棋示例2.gif" alt="GIF 2" width="200">
+      <img src="img/井字棋示例1.gif" alt="GIF 2" width="200">
     </td>
   </tr>
 </table>
