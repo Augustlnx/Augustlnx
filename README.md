@@ -44,7 +44,7 @@
       <img src="img/井字棋示例1.gif" alt="GIF 1" width="200">
     </td>
     <td align="center">
-      <img src="img/井字棋示例1.gif" alt="GIF 2" width="200">
+      <img src="img/井字棋示例2.gif" alt="GIF 2" width="200">
     </td>
   </tr>
 </table>
