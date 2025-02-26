@@ -15,6 +15,16 @@
 
 # 📝课程设计
 
+### ✨统计计算03（2024.9-2025.1） ——0-1膨胀负二项回归模型的贝叶斯参数估计
+
+<div align=center>
+<img src="https://github.com/user-attachments/assets/6389477a-64f0-4fb0-8d91-6878e916cc9b" width="400px">
+</div>
+
+本项目基于贝叶斯方法，针对0-1膨胀负二项回归模型（ZOINB）的参数估计问题展开研究，使用Gibbs抽样与Metropolis-Hastings（M-H）算法对模型参数进行推断，并结合模拟数据验证方法的有效性。
+
+项目链接：https://github.com/Augustlnx/Statistical-Computing-Course-Project03
+
 ### ✨统计计算02（2024.9-2025.1） ——强化学习下随机化井字棋
 
 
@@ -41,6 +51,9 @@
 
 ### ✨统计计算01（2024.9-2025.1） ——Bootstrap与Jackknife方法比较
 
+本项目通过理论与实证分析，系统比较了 Bootstrap 和 Jackknife 两种重抽样方法在不同场景下的性能差异，重点关注 **小样本条件** 和 **复杂统计量估计** 两类问题。
+
+项目链接：https://github.com/Augustlnx/Statistical-Computing-Course-Project01
 
 
 
