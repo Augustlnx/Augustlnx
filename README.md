@@ -5,7 +5,7 @@
 ### 🌠接住高速移动物体游戏的自动化辅助脚本
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/fc49f9ac-45f2-4ede-834d-eb7a6f812033" alt="Video as GIF" width="350">
+    <img src="/img/tangyuan.gif" alt="Video as GIF" width="350">
 </div>
 
 
@@ -32,10 +32,10 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/c1c2111b-4dff-4660-a7d8-80897d50233b" alt="GIF 1" width="400">
+      <img src="/img/井字棋示例1.gif" alt="GIF 1" width="400">
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/34f4c6d0-378d-412f-b1f7-6abaaf87ac6e" alt="GIF 2" width="400">
+      <img src="/img/井字棋示例2.gif" alt="GIF 2" width="400">
     </td>
   </tr>
 </table>
