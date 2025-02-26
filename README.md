@@ -4,10 +4,16 @@
 
 ### 🌠接住高速移动物体游戏的自动化辅助脚本
 
-<div align="center">
-    <img src="/img/tangyuan.gif" alt="Video as GIF" width="350">
-</div>
-
+<table>
+  <tr>
+    <td align="center">
+    <img src="/img/tangyuan.gif" alt="GIF 1" width="450">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/66a46fbc-da6f-4abf-bf53-af611226f6cb" alt="GIF 2" width="140">
+    </td>
+  </tr>
+</table>
 
 本项目通过实时屏幕捕捉与OpenCV图像识别技术，结合自适应反应距离算法和鼠标自动化控制，为《汤圆大作战》游戏开发了高效辅助工具。脚本可智能识别加分汤圆、炸弹等道具，动态调整接取策略，在高速移动场景下实现精准操作，最高得分达11000+分，显著超越人工极限。支持ADB投屏控制，包含多级性能优化，助力轻松登顶全行前四~
 
