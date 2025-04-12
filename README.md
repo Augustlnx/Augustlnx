@@ -16,7 +16,7 @@
 &emsp; I really like this short Latin proverb on the right. It is used as the background of my WeChat Moments and has inspired me through many difficult times. I think one day I will be able to find my own rhythm and calm down to do some **truly meaningful things**！
     </td>
     <td align="center">
-     <img src="https://github.com/user-attachments/assets/3cb18d53-5f69-4803-b6b2-8e33482efbe3" width="1700px">
+     <img src="https://github.com/user-attachments/assets/3cb18d53-5f69-4803-b6b2-8e33482efbe3" width="1200px">
     </td>
   </tr>
 </table>
