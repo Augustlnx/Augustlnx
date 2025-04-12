@@ -27,7 +27,7 @@ As a rough self-introduction, the table of contents of the following content is 
 
 **二、[📝Course Project](#Course-Project)**
 
-# 🫡Interesting-small-project
+# 🫡Interesting small project
 
 ### 🌠接住高速移动物体游戏的自动化辅助脚本（Automated assistance script for catching high-speed moving object games）
 
