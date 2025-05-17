@@ -4,7 +4,6 @@
 - 😎Currently, I am studying at the School of Mathematical Sciences, Xiamen University.
 - 🫡This interface stores some of my projects during my undergraduate years.
 - 😉Welcome to communicate with me about the content you are also interested in.
-- 📑You can find my CV here: <a href="https://github.com/Augustlnx/Augustlnx/blob/main/25%E6%98%A5%20%E7%AE%80%E5%8E%86%20(Version1).pdf" target="_blank">HC.</a>
 
 <table>
   <tr>
