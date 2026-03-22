@@ -1,7 +1,6 @@
 # Hi there 👋
 
-- 🙃I am a junior student majoring in statistics.
-- 😎Currently, I am studying at the School of Mathematical Sciences, Xiamen University.
+- 🙃I am a senior student majoring in statistics.
 - 🫡This interface stores some of my projects during my undergraduate years.
 - 😉Welcome to communicate with me about the content you are also interested in.
 
@@ -136,8 +135,6 @@ Link：https://github.com/Augustlnx/Stochastic-Processes-Course-Project
 
 ---
 
-# 大创项目（College Students' Innovation and Entrepreneurship Training Program）
 
-This part is still being perfected...
 
 
